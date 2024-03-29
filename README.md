@@ -3,8 +3,8 @@
 <b>Employee Management App<b> using ReactJS, Springboot, and PostgreSQL
 
 
-#Tools and technologies used
-Spring Boot
+#Tools and technologies used<br>
+Spring Boot<br>
 JDK - 1.7 or later
 Spring Framework
 Spring Data JPA (Hibernate)
