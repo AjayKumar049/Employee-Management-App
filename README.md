@@ -33,12 +33,18 @@ IDE used - Visual Studio Code<br>
 
 ![Add1](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/8e38e008-7340-44ad-9453-caceaab46d86)<br>
 
+2.Update <br>
 
 
 
+![Update](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/b3318644-2b9d-40e3-8c3f-8551d15c1f34)<br>
 
+3.Delete<br>
 
+![Delete](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/da447623-0efa-4def-ba2d-db208b03aba5)<br>
 
+4.View<br>
 
+![Views](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/45c34e1f-449f-4d70-ba74-aac96dd634ef)<br>
 
 
