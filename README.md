@@ -5,7 +5,7 @@
 
 #Tools and technologies used<br>
 Spring Boot<br>
-JDK - 1.7 or later<br>
+JDK - 1.7 <br>
 Spring Framework<br>
 Spring Data JPA (Hibernate)<br>
 Maven<br>
