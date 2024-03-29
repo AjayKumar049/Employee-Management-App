@@ -47,4 +47,7 @@ IDE used - Visual Studio Code<br>
 
 ![Views](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/45c34e1f-449f-4d70-ba74-aac96dd634ef)<br>
 
+5.Added employee data are stored in the database<br>
 
+
+![Database_output](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/1d8e7a40-4626-40a4-923c-e3d665b7a295)
