@@ -26,7 +26,17 @@ IDE used - Visual Studio Code<br>
 5.Users can view detailed information about each employee by selectiong them from the employee list<br>
 
 
-#Output
+#Output<br>
+1.Add employee<br>
+
+![Add](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/57c26299-9867-4eaa-98bf-755c0d55bb1c)<br>
+
+![Add1](https://github.com/AjayKumar049/Employee-Management-App/assets/92783730/8e38e008-7340-44ad-9453-caceaab46d86)<br>
+
+
+
+
+
 
 
 
